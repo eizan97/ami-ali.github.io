@@ -1,0 +1,30 @@
+.nav-item{
+  margin-right: 40px;
+  font-family: poppins;
+}
+.jumbotron{
+  background-image: url(images/Image2.jpg);
+  background-size: cover;
+  background-position: 0px -125px;
+  height: 540px;
+  position: relative;
+}
+/* h1{
+  padding-top: 200px;
+} */
+h1{
+  margin-top: 240px;
+  font-family: overpass, sans-serif;
+  font-weight: 50px;
+}
+h1:hover{
+   box-shadow: 3px 3px 4px rgb(48, 48, 48);
+}
+p{
+  width: 80px;
+  font-family: overpass, sans-serif;
+}
+.about{
+  height: 640px;
+  
+}
